@@ -1,6 +1,7 @@
 plan what's next?
 - mastering javascript
-  not even know about Javascript, so get kill it
+  - not even know about Javascript, so get kill it
 - mastering nodejs
 - get in deep learning about databases
 - create projects
+- don't give up
