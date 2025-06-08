@@ -1,0 +1,5 @@
+plan what's next?
+- mastering javascript
+- mastering nodejs
+- get in deep learning about databases
+- create projects
